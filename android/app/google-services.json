@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "973539794559",
+    "firebase_url": "https://my-new-chat-app-default-rtdb.firebaseio.com",
+    "project_id": "my-new-chat-app",
+    "storage_bucket": "my-new-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973539794559:android:adcd912e32a9801f40294a",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc-qCoGo5wR9Bd9RVYiCgSchnAmJql6sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973539794559:android:8a03fb1221b4b96a40294a",
+        "android_client_info": {
+          "package_name": "com.example.chatapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc-qCoGo5wR9Bd9RVYiCgSchnAmJql6sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973539794559:android:4279e2247231149940294a",
+        "android_client_info": {
+          "package_name": "com.example.quize_app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc-qCoGo5wR9Bd9RVYiCgSchnAmJql6sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
